@@ -1,0 +1,18 @@
+{
+  "name": "xirin/cms",
+  "require": {
+    "league/oauth2-google": "^4.0",
+    "phpmailer/phpmailer": "~5.2"
+  },
+  "autoload": {
+    "classmap": [
+      "classes"
+    ]
+  },
+  "authors": [
+    {
+      "name": "joshulitin",
+      "email": "josh.ulitin@gmail.com"
+    }
+  ]
+}
